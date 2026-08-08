@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=240&section=header&text=ARUL%20AGNES&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Dev%20%7C%20Data%20Engineer%20%7C%203D%20Builder&descAlignY=65" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&width=1100&height=90&lines=Welcome+to+My+3D+Universe;Book+Store+Management+System;Lucky+Celestial+System;Premium+3D+Portfolio+Website;Pharmacy+POS+%2B+ETL+Pipeline;Python+%7C+PHP+%7C+TypeScript+%7C+Three.js" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&pause=1000&center=true&vCenter=true&width=1100&height=90&lines=Welcome+to+My+3D+Universe;Book+Store+Management+System;Lucky+Celestial+System;Premium+3D+Portfolio+Website;Pharmacy+POS+%2B+ETL+Pipeline;Python+%7C+PHP+%7C+TypeScript+%7C+Three.js" />
 </p>
 
 <p align="center">
@@ -87,7 +87,6 @@
   <a href="https://arul-portfolio-taupe.vercel.app/">
    <img src="https://img.icons8.com/3d-fluency/94/rocket.png" width="60"/> <img src="https://img.shields.io/badge/▲%20arul--portfolio--taupe.vercel.app-LIVE-000000?style=for-the-badge&logo=vercel"/>
   </a>
-  <img src="https://img.icons8.com/3d-fluency/94/rocket.png" width="60"/>
   <br>
   <b>Premium 3D Portfolio built with Next.js + Three.js + Framer Motion</b>
   <br>
