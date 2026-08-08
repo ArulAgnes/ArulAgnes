@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=240&section=header&text=ARUL%20AGNES&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Dev%20%7C%20Data%20Engineer%20%7C%203D%20Builder&descAlignY=65" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&width=1100&height=100&lines=%F0%9F%9A%80+Welcome+to+My+3D+Universe;📚+Book+Store+Management+System;🔮+Lucky+Number+%26+Celestial+System;🌌+3D+Animation+Portfolio+Website;💊+Pharmacy+POS+%2B+ETL+Pipeline+Builder;⚙️+Python+%7C+PHP+%7C+MySQL+%7C+Three.js" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&width=1100&height=100&lines=%F0%9F%9A%80+Welcome+to+My+3D+Universe;%F0%9F%93%9A+Book+Store+Management+System;%F0%9F%94%AE+Lucky+Number+%26+Celestial+System;%F0%9F%8C%8C+3D+Animation+Portfolio+Website;%F0%9F%92%8A+Pharmacy+POS+%2B+ETL+Pipeline+Builder;%E2%9A%99%EF%B8%8F+Python+%7C+PHP+%7C+MySQL+%7C+Three.js" />
 </p>
 
 ---
