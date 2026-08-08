@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 Premium Projects - 3D Showcase
+## 🚀 Premium Projects 
 
 <div align="center">
 <table>
@@ -51,7 +51,7 @@
 
 ---
 
-## 📊 3D GitHub Analytics - FIXED & WORKING
+## 📊  GitHub Analytics - FIXED & WORKING
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArulAgnes&theme=tokyonight" width="100%"/>
@@ -68,7 +68,7 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArulAgnes&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
 </p>
 
-## 🧊 3D Contribution - NOW WORKING
+## 🧊  Contribution - NOW WORKING
 
 <!-- SNAKE ANIMATION - Works instantly without workflow -->
 <p align="center">
@@ -81,7 +81,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArulAgnes&theme=tokyo-night&hide_border=true&area=true" width="49%"/>
 </p>
 
-## 🌐 My Live Portfolio - 3D Preview
+## 🌐 My Live Portfolio -  Preview
 
 <p align="center">
   <a href="https://arul-portfolio-taupe.vercel.app/">
@@ -93,12 +93,12 @@
   <sub>Source: https://github.com/ArulAgnes/premium-3d-portfolio-website1</sub>
 </p>
 
-## 🛠️ Tech Stack - 3D Icons
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,php,mysql,ts,js,nextjs,threejs,tailwind,html,css,sqlite,github,vercel,vscode" />
 </p>
-
+<br>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=120&section=footer" width="100%"/>
 </p>
