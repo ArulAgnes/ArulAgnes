@@ -90,7 +90,6 @@
   <br>
   <b>Premium 3D Portfolio built with Next.js + Three.js + Framer Motion</b>
   <br>
-  <sub>Source: https://github.com/ArulAgnes/premium-3d-portfolio-website1</sub>
 </p>
 
 ## 🛠️ Tech Stack
@@ -98,7 +97,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,php,mysql,ts,js,nextjs,threejs,tailwind,html,css,sqlite,github,vercel,vscode" />
 </p>
-<br>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=170&section=footer" width="100%"/>
 </p>
