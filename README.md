@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=300&section=header&text=ARUL%20AGNES&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Dev%20%7C%20Data%20Engineer%20%7C%203D%20Builder&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=275&section=header&text=ARUL%20AGNES&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Dev%20%7C%20Data%20Engineer%20%7C%203D%20Builder&descAlignY=65" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&pause=1000&center=true&vCenter=true&width=1100&height=90&lines=Welcome+to+My+3D+Universe;Book+Store+Management+System;Lucky+Celestial+System;Premium+3D+Portfolio+Website;Pharmacy+POS+%2B+ETL+Pipeline;Python+%7C+PHP+%7C+TypeScript+%7C+Three.js" />
@@ -98,11 +98,10 @@
   <img src="https://skillicons.dev/icons?i=python,php,mysql,ts,js,nextjs,threejs,tailwind,html,css,sqlite,github,vercel,vscode" />
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=220&section=footer&text=Let's%20Connect&fontSize=30&fontColor=ffffff&animation=fadeIn&desc=agnes915033@gmail.com%20%7C%20%2B91%209342450760&descAlignY=75&descSize=18" width="100%"/>
-</p>
-
-<p align="center">
   <a href="mailto:agnes915033@gmail.com"><img src="https://img.shields.io/badge/Email-agnes915033@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="tel:+919342450760"><img src="https://img.shields.io/badge/Phone-%2B91%209342450760-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://arul-portfolio-taupe.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge&logo=vercel"/></a>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=220&section=footer&text=Let's%20Connect&fontSize=30&fontColor=ffffff&animation=fadeIn&desc=agnes915033@gmail.com%20%7C%20%2B91%209342450760&descAlignY=75&descSize=18" width="100%"/>
 </p>
