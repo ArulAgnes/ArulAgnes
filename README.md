@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=240&section=header&text=ARUL%20AGNES&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Dev%20%7C%20Data%20Engineer%20%7C%203D%20Builder&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=300&section=header&text=ARUL%20AGNES&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Dev%20%7C%20Data%20Engineer%20%7C%203D%20Builder&descAlignY=65" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&pause=1000&center=true&vCenter=true&width=1100&height=90&lines=Welcome+to+My+3D+Universe;Book+Store+Management+System;Lucky+Celestial+System;Premium+3D+Portfolio+Website;Pharmacy+POS+%2B+ETL+Pipeline;Python+%7C+PHP+%7C+TypeScript+%7C+Three.js" />
@@ -98,5 +98,5 @@
   <img src="https://skillicons.dev/icons?i=python,php,mysql,ts,js,nextjs,threejs,tailwind,html,css,sqlite,github,vercel,vscode" />
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=170&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=190&section=footer" width="100%"/>
 </p>
