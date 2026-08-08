@@ -88,11 +88,13 @@
     <img src="https://img.shields.io/badge/▲%20arul--portfolio--taupe.vercel.app-LIVE-000000?style=for-the-badge&logo=vercel"/>
   </a>
   <br><br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="60"/>
+  <p align="center">
+  <img src="https://img.icons8.com/3d-fluency/94/rocket.png" width="60"/>
   <br>
   <b>Premium 3D Portfolio built with Next.js + Three.js + Framer Motion</b>
   <br>
   <sub>Source: https://github.com/ArulAgnes/premium-3d-portfolio-website1</sub>
+</p>
 </p>
 
 ## 🛠️ Tech Stack - 3D Icons
