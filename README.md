@@ -98,5 +98,11 @@
   <img src="https://skillicons.dev/icons?i=python,php,mysql,ts,js,nextjs,threejs,tailwind,html,css,sqlite,github,vercel,vscode" />
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=190&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=220&section=footer&text=Let's%20Connect&fontSize=30&fontColor=ffffff&animation=fadeIn&desc=agnes915033@gmail.com%20%7C%20%2B91%209342450760&descAlignY=75&descSize=18" width="100%"/>
+</p>
+
+<p align="center">
+  <a href="mailto:agnes915033@gmail.com"><img src="https://img.shields.io/badge/Email-agnes915033@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="tel:+919342450760"><img src="https://img.shields.io/badge/Phone-%2B91%209342450760-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://arul-portfolio-taupe.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge&logo=vercel"/></a>
 </p>
